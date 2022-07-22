@@ -1,0 +1,11 @@
+class repository
+{
+import abc,
+where b =c;
+c=b;
+}
+end class repository;
+
+import class xyz;
+
+}

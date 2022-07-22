@@ -9,3 +9,12 @@ end class repository;
 import class xyz;
 
 }
+Here is the analysis of suspicious mail you received:
+Domain:
+SourceIP:
+url:
+Attachment:
+Verdict:
+Analysis:
+
+}
